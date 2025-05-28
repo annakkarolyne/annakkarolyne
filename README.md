@@ -1,10 +1,6 @@
 <h1 align="center">hi 😻🖥️, sou Ana Caroline</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=annakkarolyne&label=Profile%20views&color=0e75b6&style=flat" alt="annakkarolyne" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annakkarolyne" alt="annakkarolyne" /></a> </p>
-
 - Estudante de ADS na Fatec de Americana Atividade de Redes com Cisco Packet Tracer
 - 📫 Como entrar em contato comigo anacbugatto@gmail.com
 
