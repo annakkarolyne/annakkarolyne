@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://imgur.com/EGRG7sj.png" alt="Banner Ana Caroline" style="width:100%; border-radius: 10px;" />
+<div align="center">
+  <h1 style="background-color:#007BFF; color:white; padding:20px; border-radius:10px;">
+    Ana Caroline
+  </h1>
+</div>
+
 
 
 </div>
