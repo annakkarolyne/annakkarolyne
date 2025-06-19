@@ -1,11 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/annakkarolyne/annakkarolyne/main/banner-ana-caroline.png" alt="Ana Caroline banner" />
-</p>
-
-
-
+![Ana Caroline](https://img.shields.io/badge/Ana%20Caroline-0000FF?style=for-the-badge&logo=github&logoColor=white)
 
 
 </div>
