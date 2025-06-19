@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ana Caroline](https://img.shields.io/badge/Ana%20Caroline-0000FF?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://imgur.com/EGRG7sj.png" alt="Banner Ana Caroline" style="width:100%; border-radius: 10px;" />
 
 
 </div>
