@@ -1,10 +1,9 @@
 <div align="center">
 
-<div align="center">
-  <h1 style="background-color:#007BFF; color:white; padding:20px; border-radius:10px;">
-    Ana Caroline
-  </h1>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/banner-ana-caroline.png" alt="Ana Caroline banner" />
+</p>
+
 
 
 
