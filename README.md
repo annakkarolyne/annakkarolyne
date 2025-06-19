@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#1E90FF&height=200&section=header&text=Ana%20Caroline%20Bugatto&fontColor=ffffff&fontSize=40&animation=twinkling"/>
+![Ana Caroline](https://img.shields.io/badge/Ana%20Caroline-0000FF?style=for-the-badge&logo=github&logoColor=white)
+
 
 </div>
 
-<h1 align="center">✨ I'm Ana Caroline, a technology student ✨</h1>
+<h1 align="center">✨ Estudante de tecnologia ✨</h1>
 
 
 <p align="center">
