@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Ana%20Caroline%20Bugatto&fontColor=ffffff&fontSize=40&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#1E90FF&height=200&section=header&text=Ana%20Caroline%20Bugatto&fontColor=ffffff&fontSize=40&animation=twinkling"/>
 
 </div>
 
