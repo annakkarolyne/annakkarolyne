@@ -50,7 +50,7 @@ Dá uma olhadinha, tem vários projetinhos lindos que mostram minha evolução! 
 
  📫 Contact
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ana-caroline-bugatto-580336299/)  
-- 💌 anacbugattogmail.com  
+- 💌 anacbugatto@gmail.com  
 
 ---
 
