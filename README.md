@@ -1,8 +1,9 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/banner-ana-caroline.png" alt="Ana Caroline banner" />
+  <img src="https://raw.githubusercontent.com/annakkarolyne/annakkarolyne/main/banner-ana-caroline.png" alt="Ana Caroline banner" />
 </p>
+
 
 
 
