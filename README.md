@@ -28,7 +28,7 @@ Sempre buscando aprender, crescer e transformar ideias em soluções. 🚀
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech 
 
 <div align="center">
 
@@ -41,15 +41,14 @@ Sempre buscando aprender, crescer e transformar ideias em soluções. 🚀
 
 </div>
 
----
 
-## ✨ My Projects
+
+✨ My Projects
 ⭐ Meus repositórios são feitos com muito carinho, foco no aprendizado e desenvolvimento.  
 Dá uma olhadinha, tem vários projetinhos lindos que mostram minha evolução! 💖  
 
----
 
-## 📫 Contact
+ 📫 Contact
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ana-caroline-bugatto-580336299/)  
 - 💌 anacbugattogmail.com  
 
