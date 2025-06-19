@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">✨I'm Ana Caroline, a technology student ✨</h1>
+<h1 align="center">✨ I'm Ana Caroline, a technology student ✨</h1>
 
 <p align="center">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/><br>
@@ -12,12 +12,16 @@ Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> ✨<br>
 Sempre buscando aprender, crescer e transformar ideias em soluções. 🚀
 </p>
 
-💖 Sobre mim
-- 👩‍💻 Estudante dedicada de Análise e Desenvolvimento de Sistemas  
+---
+
+## 💖 About me
+- 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas  
 - 🚀 Sempre buscando crescer como profissional e como pessoa  
 - ☕ Amante de café, tecnologia, desafios e arte!  
 
- 💻 Tecnologias que estou aprendendo
+---
+
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -30,15 +34,19 @@ Sempre buscando aprender, crescer e transformar ideias em soluções. 🚀
 
 </div>
 
-✨ Meus projetos
+---
+
+## ✨ My Projects
 ⭐ Meus repositórios são feitos com muito carinho, foco no aprendizado e desenvolvimento.  
 Dá uma olhadinha, tem vários projetinhos lindos que mostram minha evolução! 💖  
 
+---
 
-## 📫 Onde me encontrar:
-- 🌐 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-bugatto-580336299/)  
-- 💌 Email: anacbugattogmail.com  
+## 📫 Contact
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ana-caroline-bugatto-580336299/)  
+- 💌 anacbugattogmail.com  
 
+---
 
 <div align="center">
 
@@ -46,7 +54,7 @@ Dá uma olhadinha, tem vários projetinhos lindos que mostram minha evolução! 
 
 ✨🌸 Obrigada por visitar meu perfil! 🌸✨
 
-(https://github.com/annakkarolyne/annakkarolyne/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/annakkarolyne/annakkarolyne/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
