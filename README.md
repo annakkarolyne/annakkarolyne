@@ -34,7 +34,7 @@
 
 📫 Onde me encontrar:
 - 🌐 https://www.linkedin.com/in/ana-caroline-bugatto-580336299/ 
-- 💌 Email: anacbugattogmail.com  
+- 💌 Email: anacbugatto@gmail.com  
 
 
 <div align="center">
