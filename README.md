@@ -4,7 +4,8 @@
 
 </div>
 
-<h1 align="center">✨ I'm Ana Caroline  ✨</h1>
+<h1 align="center">✨ I'm Ana Caroline, a technology student ✨</h1>
+
 
 <p align="center">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/><br>
