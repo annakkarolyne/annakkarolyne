@@ -1,92 +1,52 @@
-# Cole este código no seu README.md do GitHub:
+# Olá, eu sou a Anna Karolyne! 👋
 
-```markdown
-![Banner](./github-banner.png)
+### Desenvolvedora Full Stack em Transição | Java & Spring Boot Specialist
 
-<div align="center">
-
-## 👋 Olá! Eu sou a Ana Caroline Bugatto
-
-### 💻 Desenvolvedora Backend em Formação
-
-Apaixonada por tecnologia e em busca da minha primeira oportunidade como **Dev Júnior**!
+Sou uma entusiasta da tecnologia apaixonada por resolver problemas através do código. Minha jornada no desenvolvimento de software começou com o foco em construir aplicações robustas, escaláveis e que gerem impacto positivo na vida das pessoas. Atualmente, dedico meus estudos ao ecossistema Java e arquitetura de microserviços.
 
 ---
 
-### 🚀 Stack Principal
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-### 📚 O que estou aprendendo
-
-- Desenvolvimento de APIs RESTful
-- Arquitetura de microsserviços
-- Boas práticas de Clean Code
-- Testes unitários e integração
-- Bancos de dados relacionais
+## 🚀 Sobre Mim
+- 🎓 Formada no Bootcamp Full Stack Java da **Generation Brasil**.
+- 🛠️ Atualmente focada em: **Spring Boot, Spring Security e APIs RESTful**.
+- 🌱 Estudando constantemente: **Testes Unitários (JUnit/Mockito)** e boas práticas de **Clean Code**.
+- 💬 Adoro conversar sobre: Backend, lógica de programação e novos desafios tecnológicos.
 
 ---
 
-### 🎯 Objetivos 2025
+## 🛠️ Tecnologias e Ferramentas
 
-✅ Construir projetos reais com Spring Boot  
-✅ Contribuir com projetos open source  
-✅ Conquistar minha primeira vaga como Dev Júnior  
-✅ Continuar aprendendo e evoluindo na área
+### Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin-aqui)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-aqui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](seu-portfolio-aqui)
-
----
-
-💡 *"O único lugar onde o sucesso vem antes do trabalho é no dicionário."* - Vidal Sassoon
-
-</div>
-```
+### Ferramentas & Outros
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 ---
 
-## 📝 Instruções de Uso:
+## 📊 Estatísticas do GitHub
 
-1. **Baixe a imagem do banner** (github-banner.png) que vou disponibilizar
-2. **Coloque a imagem** na raiz do seu repositório de perfil do GitHub (geralmente um repo com seu username)
-3. **Cole o código acima** no arquivo README.md
-4. **Personalize os links**:
-   - Substitua `seu-linkedin-aqui` pelo link do seu LinkedIn
-   - Substitua `seu-email-aqui` pelo seu email
-   - Substitua `seu-portfolio-aqui` pelo link do seu portfólio (se tiver)
-5. **Commit e push** para o GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annakkarolyne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annakkarolyne&layout=compact&langs_count=7&theme=dracula"/>
+</p>
 
 ---
 
-## 🎨 Sobre o Design:
-
-- **Cores**: Gradiente roxo/azul (tech colors) com toques de ciano
-- **Estilo**: Moderno, limpo e profissional
-- **Destaque**: Seu nome em evidência no topo
-- **Stack**: Tecnologias destacadas em badges coloridos
-- **Objetivo**: Frase motivacional para recrutadores
+## 📫 Entre em contato comigo:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_AQUI/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
 ---
-
-## ✨ Dica Extra:
-
-Você também pode adicionar uma seção de **estatísticas do GitHub** ao seu README:
-
-```markdown
-### 📊 GitHub Stats
-
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=tokyonight)
-```
-
-Substitua `SEU-USERNAME` pelo seu username do GitHub!
+<p align="center">
+  <i>"O sucesso não é o fim, o fracasso não é fatal: é a coragem de continuar que conta."</i>
+</p>
