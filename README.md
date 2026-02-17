@@ -26,7 +26,7 @@ Apaixonada por código limpo, boas práticas e por construir APIs robustas. Atua
 
 ---
 
-### 🛠️ Stack
+Stack
 
 **Back-end**
 
@@ -52,8 +52,6 @@ Apaixonada por código limpo, boas práticas e por construir APIs robustas. Atua
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=annakkarolyne&show_icons=true&theme=tokyonight&bg_color=0f0f18&title_color=a78bfa&icon_color=7c3aed&text_color=c4b8e8&border_color=2d2d4e&border_radius=12&hide_border=false" />
@@ -68,8 +66,6 @@ Apaixonada por código limpo, boas práticas e por construir APIs robustas. Atua
 </div>
 
 ---
-
-### 🤝 Contato
 
 <div align="center">
 
