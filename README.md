@@ -1,67 +1,74 @@
-<div align="center">
-
-<div align="center">
-  <h1 style="background-color:#007BFF; color:white; padding:20px; border-radius:10px;">
-    Ana Caroline
-  </h1>
 </div>
 
-
-
-</div>
-
-<h1 align="center">✨ Estudante de tecnologia ✨</h1>
-
-
-<p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/><br>
-Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> ✨<br>
-Sempre buscando aprender, crescer e transformar ideias em soluções. 🚀
-</p>
-
----
-
-## 💖 About me
-- 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas  
-- 🚀 Sempre buscando crescer como profissional e como pessoa  
-- ☕ Amante de café, tecnologia, desafios e arte!  
-
----
-
-## 💻 Tech 
+<br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+### 💜 Citação Favorita
+
+> *"A única maneira de fazer um excelente trabalho é amar o que você faz."*  
+> **— Steve Jobs**
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100" />
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="100" />
+<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="100" />
 
 </div>
 
+<br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-✨ My Projects
-⭐ Meus repositórios são feitos com muito carinho, foco no aprendizado e desenvolvimento.  
-Dá uma olhadinha, tem vários projetinhos lindos que mostram minha evolução! 💖  
+<br>
 
-
- 📫 Contact
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ana-caroline-bugatto-580336299/)  
-- 💌 anacbugatto@gmail.com  
-
----
+## 🌟 Repositórios em Destaque
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=annakkarolyne&repo=annakkarolyne&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7)](https://github.com/annakkarolyne/annakkarolyne)
 
-✨🌸 Obrigada por visitar meu perfil! 🌸✨
+</div>
 
-![Snake animation](https://github.com/annakkarolyne/annakkarolyne/blob/output/github-contribution-grid-snake.svg)
+<br>
 
-</div> 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<br>
 
+## 📈 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annakkarolyne/annakkarolyne/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annakkarolyne/annakkarolyne/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/annakkarolyne/annakkarolyne/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br><br>
+
+### ✨ *"Programando o futuro, uma linha por vez"* ✨
+
+<br>
+
+![Visitor Count](https://profile-counter.glitch.me/annakkarolyne/count.svg)
+
+<br>
+
+**💜 Obrigada pela visita! Volte sempre! 💜**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
