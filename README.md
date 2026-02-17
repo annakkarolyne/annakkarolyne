@@ -11,7 +11,7 @@
   :root {
     --navy: #0a0e1a;
     --blue: #0077B5;
-    --sky: #00c4ff;
+    --sky: #00c4ff; 
     --gold: #f5c842;
     --white: #f0f4ff;
     --gray: #8899bb;
