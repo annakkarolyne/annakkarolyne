@@ -11,9 +11,14 @@
 </div>
 
 
-Olá! Sou **Ana Caroline**, desenvolvedora Back-end com foco em Java e Spring Boot. Full Stack Java e estudante de Análise e Desenvolvimento de Sistemas na Fatec Americana.
+Ana Caroline
+Dados & Back-End Developer
 
-Apaixonada por código limpo, boas práticas e por construir APIs robustas. Atualmente aprofundando conhecimentos em **JUnit**, **Mockito** e **Arquitetura de Microserviços**, com Docker como próximo passo na jornada. 🐳
+Olá! Sou Ana Caroline, estudante de Análise e Desenvolvimento de Sistemas (Fatec Americana), 
+transicionando para a área de Tecnologia com foco em Dados e Back-End.
+
+Construí um pipeline completo de dados (Python → PostgreSQL → Power BI) simulando o fluxo real 
+de uma loja de eletrônicos, e também desenvolvo APIs robustas com Java e Spring Boot. 🐳
 
 ---
 
