@@ -6,7 +6,7 @@
 
 <div align="center">
                
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=140&section=header&text=Ana%20Caroline&fontSize=42&fontColor=f5f0ff&fontAlignY=52&desc=Back-end%20Developer%20·%20Java&descColor=c4b8e8&descSize=16&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=140&section=header&text=Ana%20Caroline&fontSize=42&fontColor=f5f0ff&fontAlignY=52&desc=Dados%20%26%20Back-End%20Developer&descColor=c4b8e8&descSize=16&descAlignY=75" />
 
 </div>
 
@@ -21,6 +21,13 @@ Construí um pipeline completo de dados (Python → PostgreSQL → Power BI) sim
 de uma loja de eletrônicos, e também desenvolvo APIs robustas com Java e Spring Boot. 🐳
 
 ---
+
+**Dados**
+
+![Python](https://img.shields.io/badge/Python-0f0f18?style=for-the-badge&logo=python&logoColor=a78bfa&labelColor=1a1a2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f18?style=for-the-badge&logo=postgresql&logoColor=a78bfa&labelColor=1a1a2e)
+![Power BI](https://img.shields.io/badge/Power_BI-0f0f18?style=for-the-badge&logo=powerbi&logoColor=a78bfa&labelColor=1a1a2e)
+![pandas](https://img.shields.io/badge/pandas-0f0f18?style=for-the-badge&logo=pandas&logoColor=a78bfa&labelColor=1a1a2e)
 
 **Back-end**
 
@@ -39,6 +46,7 @@ de uma loja de eletrônicos, e também desenvolvo APIs robustas com Java e Sprin
 
 ![Git](https://img.shields.io/badge/Git-0f0f18?style=for-the-badge&logo=git&logoColor=a78bfa&labelColor=1a1a2e)
 ![GitHub](https://img.shields.io/badge/GitHub-0f0f18?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-0f0f18?style=for-the-badge&logo=docker&logoColor=a78bfa&labelColor=1a1a2e)
 ![Postman](https://img.shields.io/badge/Postman-0f0f18?style=for-the-badge&logo=postman&logoColor=a78bfa&labelColor=1a1a2e)
 ![Insomnia](https://img.shields.io/badge/Insomnia-0f0f18?style=for-the-badge&logo=insomnia&logoColor=a78bfa&labelColor=1a1a2e)
 ![JUnit5](https://img.shields.io/badge/JUnit5-0f0f18?style=for-the-badge&logo=junit5&logoColor=a78bfa&labelColor=1a1a2e)
