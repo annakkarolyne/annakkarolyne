@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/annakkarolyne/annakkarolyne/main/assets/banner-topo.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/annakkarolyne/annakkarolyne@main/assets/banner-topo.svg" width="100%" />
 
 </div>
 
@@ -112,6 +112,6 @@ Sistema de monitoramento industrial em tempo real com **React**, **Node.js** e *
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/annakkarolyne/annakkarolyne/main/assets/banner-rodape.svg" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/annakkarolyne/annakkarolyne@main/assets/banner-rodape.svg" width="100%" />
 
 </div>
