@@ -1,21 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=140&section=header&text=Ana%20Caroline&fontSize=42&fontColor=f5f0ff&fontAlignY=52&desc=Back-end%20%26%20Banco%20de%20Dados&descColor=c4b8e8&descSize=16&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=140&section=header&text=Ana%20Caroline&fontSize=42&fontColor=f5f0ff&fontAlignY=52&desc=Dados%20%26%20Back-end&descColor=c4b8e8&descSize=16&descAlignY=75" />
 
 </div>
 
-Olá! Sou **Ana Caroline**, desenvolvedora Back-end com foco em **Java, Spring Boot e Banco de Dados**. Full Stack Java e estudante de Análise e Desenvolvimento de Sistemas na Fatec Americana.
+Olá! Sou **Ana Caroline**, em transição para **Análise de Dados / Engenharia de Dados**, com base sólida em **Back-end (Java, Spring Boot)**. Estudante de Análise e Desenvolvimento de Sistemas na Fatec Americana.
 
-Apaixonada por código limpo, boas práticas, modelagem de dados e por construir APIs robustas. Atualmente aprofundando conhecimentos em **JUnit**, **Mockito** e **Arquitetura de Microserviços**, com Docker como próximo passo na jornada. 🐳
+Apaixonada por modelagem de dados, código limpo e por transformar dados brutos em decisões — de pipelines ETL a dashboards com Power BI. Atualmente aprofundando **DAX**, **testes automatizados** e **Docker**. 🐳
 
 ---
 
-**Banco de Dados**
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=40&section=header" />
+</div>
+
+**Dados & Banco de Dados**
 
 ![SQL](https://img.shields.io/badge/SQL-0f0f18?style=for-the-badge&logo=sqlite&logoColor=a78bfa&labelColor=1a1a2e)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f18?style=for-the-badge&logo=postgresql&logoColor=a78bfa&labelColor=1a1a2e)
 ![MySQL](https://img.shields.io/badge/MySQL-0f0f18?style=for-the-badge&logo=mysql&logoColor=a78bfa&labelColor=1a1a2e)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0f0f18?style=for-the-badge&logo=sqlalchemy&logoColor=a78bfa&labelColor=1a1a2e)
+![Power BI](https://img.shields.io/badge/Power_BI-0f0f18?style=for-the-badge&logo=powerbi&logoColor=a78bfa&labelColor=1a1a2e)
+![DAX](https://img.shields.io/badge/DAX-0f0f18?style=for-the-badge&labelColor=1a1a2e)
+![ETL](https://img.shields.io/badge/ETL-0f0f18?style=for-the-badge&labelColor=1a1a2e)
 ![Modelagem Dimensional](https://img.shields.io/badge/Modelagem_Dimensional-0f0f18?style=for-the-badge&labelColor=1a1a2e)
 
 **Back-end**
@@ -42,6 +49,10 @@ Apaixonada por código limpo, boas práticas, modelagem de dados e por construir
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-0f0f18?style=for-the-badge&logo=intellijidea&logoColor=a78bfa&labelColor=1a1a2e)
 
 ---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=40&section=header" />
+</div>
 
 ## 🚀 Projetos em Destaque
 
