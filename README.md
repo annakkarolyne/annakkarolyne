@@ -5,22 +5,26 @@
 -->
 
 <div align="center">
-               
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=140&section=header&text=Ana%20Caroline&fontSize=42&fontColor=f5f0ff&fontAlignY=52&desc=Dados%20%26%20Back-End%20Developer&descColor=c4b8e8&descSize=16&descAlignY=75" />
 
 </div>
 
+<div align="center">
 
-Ana Caroline
-Dados & Back-End Developer
+Olá! Sou Ana Caroline, estudante de **Análise e Desenvolvimento de Sistemas** (Fatec Americana),
+transicionando para a área de Tecnologia com foco em **Dados** e **Back-End**.
 
-Olá! Sou Ana Caroline, estudante de Análise e Desenvolvimento de Sistemas (Fatec Americana), 
-transicionando para a área de Tecnologia com foco em Dados e Back-End.
+Construí um pipeline completo de dados (**Python → PostgreSQL → Power BI**) simulando o fluxo real
+de uma loja de eletrônicos, e também desenvolvo APIs robustas com **Java** e **Spring Boot**. 🐳
 
-Construí um pipeline completo de dados (Python → PostgreSQL → Power BI) simulando o fluxo real 
-de uma loja de eletrônicos, e também desenvolvo APIs robustas com Java e Spring Boot. 🐳
+</div>
 
----
+<br>
+
+## 🧩 Tecnologias
+
+<br>
 
 **Dados**
 
@@ -52,22 +56,28 @@ de uma loja de eletrônicos, e também desenvolvo APIs robustas com Java e Sprin
 ![JUnit5](https://img.shields.io/badge/JUnit5-0f0f18?style=for-the-badge&logo=junit5&logoColor=a78bfa&labelColor=1a1a2e)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-0f0f18?style=for-the-badge&logo=intellijidea&logoColor=a78bfa&labelColor=1a1a2e)
 
----
+<br>
+
+## 📊 Estatísticas
+
+<br>
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=annakkarolyne&show_icons=true&theme=tokyonight&bg_color=0f0f18&title_color=a78bfa&icon_color=7c3aed&text_color=c4b8e8&border_color=2d2d4e&border_radius=12&hide_border=false" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annakkarolyne&layout=compact&theme=tokyonight&bg_color=0f0f18&title_color=a78bfa&text_color=c4b8e8&border_color=2d2d4e&border_radius=12&hide_border=false" />
 
-</div>
+<br><br>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=annakkarolyne&theme=tokyonight&background=0f0f18&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b8e8&sideLabels=c4b8e8&dates=7c6a9e&border=2d2d4e&border_radius=12)
+<img src="https://streak-stats.demolab.com?user=annakkarolyne&theme=tokyonight&background=0f0f18&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b8e8&sideLabels=c4b8e8&dates=7c6a9e&border=2d2d4e&border_radius=12" />
 
 </div>
 
----
+<br>
+
+## 📫 Contato
+
+<br>
 
 <div align="center">
 
@@ -77,7 +87,7 @@ de uma loja de eletrônicos, e também desenvolvo APIs robustas com Java e Sprin
 
 </div>
 
----
+<br>
 
 <div align="center">
 
