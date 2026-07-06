@@ -112,6 +112,6 @@ Sistema de monitoramento industrial em tempo real com **React**, **Node.js** e *
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer" />
+<img src="https://raw.githubusercontent.com/annakkarolyne/annakkarolyne/main/assets/banner-rodape.svg" width="100%" />
 
 </div>
