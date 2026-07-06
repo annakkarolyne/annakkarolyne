@@ -10,11 +10,7 @@ Apaixonada por modelagem de dados, código limpo e por transformar dados brutos 
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=40&section=header" />
-</div>
-
-**Dados & Banco de Dados**
+**Dados e Banco de Dados**
 
 ![SQL](https://img.shields.io/badge/SQL-0f0f18?style=for-the-badge&logo=sqlite&logoColor=a78bfa&labelColor=1a1a2e)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f18?style=for-the-badge&logo=postgresql&logoColor=a78bfa&labelColor=1a1a2e)
@@ -49,10 +45,6 @@ Apaixonada por modelagem de dados, código limpo e por transformar dados brutos 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-0f0f18?style=for-the-badge&logo=intellijidea&logoColor=a78bfa&labelColor=1a1a2e)
 
 ---
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=40&section=header" />
-</div>
 
 ## 🚀 Projetos em Destaque
 
@@ -119,5 +111,7 @@ Sistema de monitoramento industrial em tempo real com **React**, **Node.js** e *
 </div>
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer" />
+
 </div>
