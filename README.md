@@ -62,7 +62,7 @@ Apaixonada por modelagem de dados, código limpo e por transformar dados brutos 
 
 ### [painel-de-vendas](https://github.com/annakkarolyne/painel-de-vendas)
 
-Pipeline ETL completo com **Python**, **PostgreSQL** e **Power BI**, simulando um ambiente real de análise de dados de uma loja de eletrônicos — geração de dados, limpeza, carga em banco com **modelo estrela (fato + 4 dimensões)** e dashboard interativo de 3 páginas.
+Pipeline ETL completo com **Python**, **PostgreSQL** e **Power BI**, simulando um ambiente real de análise de dados de uma loja de eletrônicos — geração de dados, limpeza, carregamento em banco com **modelo estrela (fato + 4 dimensões)** e dashboard interativo de 3 páginas.
 
 <img src="https://raw.githubusercontent.com/annakkarolyne/painel-de-vendas/main/ativos/dashboard-pagina1.png" width="100%" />
 
