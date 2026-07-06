@@ -1,100 +1,109 @@
-<div align="center">
-
-# 💜 Ana Caroline aqui!
-
-### Namaste 🙏 Eu sou a Ana Caroline
-
-<img src="https://komarev.com/ghpvc/?username=annakkarolyne&color=6a0dad&style=for-the-badge&label=PERFIL+VIEWS" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
 
 <br>
 
-## 👋 Sobre Mim
-
-- 📊 Comecei a jornada com foco em **Dados e Análise de Sistemas**
-- 🔧 Construí um pipeline completo (**Python → PostgreSQL → Power BI**) simulando uma loja de eletrônicos
-- ☕ Desenvolvo APIs robustas com **Java** e **Spring Boot**
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Fatec Americana)
-- 💬 Me pergunte sobre Python, Java, Spring Boot ou Power BI
-- 🟢 Disponível para oportunidades na área de Dados e Back-End
-
 <div align="center">
-
-### ✦ Me siga em ✦
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-bugatto-580336299/)
-[![Gmail](https://img.shields.io/badge/Gmail-6a0dad?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anacbugatto@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-6a0dad?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annakkarolyne)
-
+  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
 </div>
 
-<br>
-
-## 🧰 Linguagens & Ferramentas
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,java,spring,mysql,html,css,js,git,github,docker,postman,idea&theme=dark" />
-
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Kamilly Medino</b>
+  </samp>
 </div>
 
-<br>
-
-## ⚡ Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=annakkarolyne&show_icons=true&theme=dark_dimmed&bg_color=17001a&title_color=c9b3ff&icon_color=a78bfa&text_color=e0d4ff&border_color=6a0dad&border_radius=12" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=annakkarolyne&theme=dark&background=17001a&border=6a0dad&ring=a78bfa&fire=c9b3ff&currStreakLabel=c9b3ff&sideLabels=e0d4ff&dates=8a2be2&border_radius=12" />
-
-</div>
-
-<br>
-
-## 🛠️ Stack Tecnológica
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-2d1b4e?style=for-the-badge&logo=python&logoColor=c9b3ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d1b4e?style=for-the-badge&logo=postgresql&logoColor=c9b3ff)
-![Power_BI](https://img.shields.io/badge/Power_BI-2d1b4e?style=for-the-badge&logo=powerbi&logoColor=c9b3ff)
-![Pandas](https://img.shields.io/badge/Pandas-2d1b4e?style=for-the-badge&logo=pandas&logoColor=c9b3ff)
-![Java](https://img.shields.io/badge/Java-2d1b4e?style=for-the-badge&logo=openjdk&logoColor=c9b3ff)
-![Spring_Boot](https://img.shields.io/badge/Spring_Boot-2d1b4e?style=for-the-badge&logo=springboot&logoColor=c9b3ff)
-![Spring_Security](https://img.shields.io/badge/Spring_Security-2d1b4e?style=for-the-badge&logo=springsecurity&logoColor=c9b3ff)
-![MySQL](https://img.shields.io/badge/MySQL-2d1b4e?style=for-the-badge&logo=mysql&logoColor=c9b3ff)
-![HTML5](https://img.shields.io/badge/HTML5-2d1b4e?style=for-the-badge&logo=html5&logoColor=c9b3ff)
-![CSS3](https://img.shields.io/badge/CSS3-2d1b4e?style=for-the-badge&logo=css3&logoColor=c9b3ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-2d1b4e?style=for-the-badge&logo=javascript&logoColor=c9b3ff)
-![Git](https://img.shields.io/badge/Git-2d1b4e?style=for-the-badge&logo=git&logoColor=c9b3ff)
-![Docker](https://img.shields.io/badge/Docker-2d1b4e?style=for-the-badge&logo=docker&logoColor=c9b3ff)
-![Postman](https://img.shields.io/badge/Postman-2d1b4e?style=for-the-badge&logo=postman&logoColor=c9b3ff)
-![Insomnia](https://img.shields.io/badge/Insomnia-2d1b4e?style=for-the-badge&logo=insomnia&logoColor=c9b3ff)
-![JUnit5](https://img.shields.io/badge/JUnit5-2d1b4e?style=for-the-badge&logo=junit5&logoColor=c9b3ff)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-2d1b4e?style=for-the-badge&logo=intellijidea&logoColor=c9b3ff)
-
-</div>
-
-<br>
-
-## 💭 Frase
-
-<div align="center">
-
-> "Código bom é aquele que qualquer pessoa consegue entender — inclusive você, seis meses depois."
-
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-
-📍 Americana, SP · Brasil &nbsp;|&nbsp; 🟢 Disponível para oportunidades
-
-![roxo](https://img.shields.io/badge/-6A0DAD?style=flat-square)
-![roxo](https://img.shields.io/badge/-8a2be2?style=flat-square)
-![roxo](https://img.shields.io/badge/-a78bfa?style=flat-square)
-![roxo](https://img.shields.io/badge/-c9b3ff?style=flat-square)
-
+  <img src="https://img.shields.io/badge/kami_♡-black" />
 </div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kamillyvm&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/km.medino/?next=%2F)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  
+</div>
+
+<div align="center">
+  <p align="center">
+      <samp>
+        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
+        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
+        <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+      </samp>
+  </p>
+</div>
+<br>
+
+</details>
+
+##
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=8f2c5b" /></p> 
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
