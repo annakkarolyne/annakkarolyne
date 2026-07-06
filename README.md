@@ -1,21 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=140&section=header&text=Ana%20Caroline&fontSize=42&fontColor=f5f0ff&fontAlignY=52&desc=Back-end%20Developer%20%C2%B7%20Java&descColor=c4b8e8&descSize=16&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=140&section=header&text=Ana%20Caroline&fontSize=42&fontColor=f5f0ff&fontAlignY=52&desc=Back-end%20%26%20Banco%20de%20Dados&descColor=c4b8e8&descSize=16&descAlignY=75" />
 
 </div>
 
-Olá! Sou **Ana Caroline**, desenvolvedora Back-end com foco em Java e Spring Boot. Full Stack Java e estudante de Análise e Desenvolvimento de Sistemas na Fatec Americana.
+Olá! Sou **Ana Caroline**, desenvolvedora Back-end com foco em **Java, Spring Boot e Banco de Dados**. Full Stack Java e estudante de Análise e Desenvolvimento de Sistemas na Fatec Americana.
 
-Apaixonada por código limpo, boas práticas e por construir APIs robustas. Atualmente aprofundando conhecimentos em **JUnit**, **Mockito** e **Arquitetura de Microserviços**, com Docker como próximo passo na jornada. 🐳
+Apaixonada por código limpo, boas práticas, modelagem de dados e por construir APIs robustas. Atualmente aprofundando conhecimentos em **JUnit**, **Mockito** e **Arquitetura de Microserviços**, com Docker como próximo passo na jornada. 🐳
 
 ---
+
+**Banco de Dados**
+
+![SQL](https://img.shields.io/badge/SQL-0f0f18?style=for-the-badge&logo=sqlite&logoColor=a78bfa&labelColor=1a1a2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f18?style=for-the-badge&logo=postgresql&logoColor=a78bfa&labelColor=1a1a2e)
+![MySQL](https://img.shields.io/badge/MySQL-0f0f18?style=for-the-badge&logo=mysql&logoColor=a78bfa&labelColor=1a1a2e)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0f0f18?style=for-the-badge&logo=sqlalchemy&logoColor=a78bfa&labelColor=1a1a2e)
+![Modelagem Dimensional](https://img.shields.io/badge/Modelagem_Dimensional-0f0f18?style=for-the-badge&labelColor=1a1a2e)
 
 **Back-end**
 
 ![Java](https://img.shields.io/badge/Java-0f0f18?style=for-the-badge&logo=openjdk&logoColor=a78bfa&labelColor=1a1a2e)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f0f18?style=for-the-badge&logo=springboot&logoColor=a78bfa&labelColor=1a1a2e)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-0f0f18?style=for-the-badge&logo=springsecurity&logoColor=a78bfa&labelColor=1a1a2e)
-![MySQL](https://img.shields.io/badge/MySQL-0f0f18?style=for-the-badge&logo=mysql&logoColor=a78bfa&labelColor=1a1a2e)
+![Python](https://img.shields.io/badge/Python-0f0f18?style=for-the-badge&logo=python&logoColor=a78bfa&labelColor=1a1a2e)
 
 **Front-end**
 
@@ -27,6 +35,7 @@ Apaixonada por código limpo, boas práticas e por construir APIs robustas. Atua
 
 ![Git](https://img.shields.io/badge/Git-0f0f18?style=for-the-badge&logo=git&logoColor=a78bfa&labelColor=1a1a2e)
 ![GitHub](https://img.shields.io/badge/GitHub-0f0f18?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-0f0f18?style=for-the-badge&logo=docker&logoColor=a78bfa&labelColor=1a1a2e)
 ![Postman](https://img.shields.io/badge/Postman-0f0f18?style=for-the-badge&logo=postman&logoColor=a78bfa&labelColor=1a1a2e)
 ![Insomnia](https://img.shields.io/badge/Insomnia-0f0f18?style=for-the-badge&logo=insomnia&logoColor=a78bfa&labelColor=1a1a2e)
 ![JUnit5](https://img.shields.io/badge/JUnit5-0f0f18?style=for-the-badge&logo=junit5&logoColor=a78bfa&labelColor=1a1a2e)
@@ -42,11 +51,11 @@ Apaixonada por código limpo, boas práticas e por construir APIs robustas. Atua
 
 ### [painel-de-vendas](https://github.com/annakkarolyne/painel-de-vendas)
 
-Pipeline ETL completo com **Python**, **PostgreSQL** e **Power BI**, simulando um ambiente real de análise de dados de uma loja de eletrônicos — geração de dados, limpeza, carga em banco com modelo estrela e dashboard interativo de 3 páginas.
+Pipeline ETL completo com **Python**, **PostgreSQL** e **Power BI**, simulando um ambiente real de análise de dados de uma loja de eletrônicos — geração de dados, limpeza, carga em banco com **modelo estrela (fato + 4 dimensões)** e dashboard interativo de 3 páginas.
 
 <img src="https://raw.githubusercontent.com/annakkarolyne/painel-de-vendas/main/ativos/dashboard-pagina1.png" width="100%" />
 
-**Destaques técnicos:** modelo estrela (fato + 4 dimensões) · testes automatizados com pytest · pipeline orquestrado · medidas DAX (incluindo cálculo MoM) · ambiente isolado com Docker
+**Destaques técnicos:** modelagem dimensional · testes automatizados com pytest · pipeline orquestrado · medidas DAX (incluindo cálculo MoM) · ambiente isolado com Docker
 
 ![Python](https://img.shields.io/badge/Python-0f0f18?style=flat-square&logo=python&logoColor=a78bfa&labelColor=1a1a2e)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f18?style=flat-square&logo=postgresql&logoColor=a78bfa&labelColor=1a1a2e)
