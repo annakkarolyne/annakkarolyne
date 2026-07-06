@@ -1,76 +1,70 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=6a0dad&section=header"/>
-
 <div align="center">
 
-# Ana Caroline
-
-<b><samp>DESENVOLVEDORA · DADOS & BACK-END</samp></b>
-
-<br>
-
-<samp>
-Estudante de Análise e Desenvolvimento de Sistemas (Fatec Americana) · Foco em Dados e Back-End
-</samp>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=140&section=header&text=Ana%20Caroline&fontSize=42&fontColor=f5f0ff&fontAlignY=52&desc=Back-end%20Developer%20%C2%B7%20Java&descColor=c4b8e8&descSize=16&descAlignY=75" />
 
 </div>
 
-<br>
+Olá! Sou **Ana Caroline**, desenvolvedora Back-end com foco em Java e Spring Boot. Full Stack Java e estudante de Análise e Desenvolvimento de Sistemas na Fatec Americana.
 
-## 👋 Sobre mim
+Apaixonada por código limpo, boas práticas e por construir APIs robustas. Atualmente aprofundando conhecimentos em **JUnit**, **Mockito** e **Arquitetura de Microserviços**, com Docker como próximo passo na jornada. 🐳
 
-- 🔧 Construí um pipeline completo de dados (**Python → PostgreSQL → Power BI**) simulando o fluxo real de uma loja de eletrônicos
-- ☕ Desenvolvo APIs robustas com **Java** e **Spring Boot**
-- 📍 Americana, SP · Brasil
-- 🟢 Disponível para oportunidades
+---
 
-<br>
+**Back-end**
 
-<div align="center">
+![Java](https://img.shields.io/badge/Java-0f0f18?style=for-the-badge&logo=openjdk&logoColor=a78bfa&labelColor=1a1a2e)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f0f18?style=for-the-badge&logo=springboot&logoColor=a78bfa&labelColor=1a1a2e)
+![Spring Security](https://img.shields.io/badge/Spring_Security-0f0f18?style=for-the-badge&logo=springsecurity&logoColor=a78bfa&labelColor=1a1a2e)
+![MySQL](https://img.shields.io/badge/MySQL-0f0f18?style=for-the-badge&logo=mysql&logoColor=a78bfa&labelColor=1a1a2e)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=annakkarolyne&rank_icon=github&show_icons=true&theme=dark_dimmed&bg_color=17001a&title_color=c9b3ff&icon_color=a78bfa&text_color=e0d4ff&border_color=6a0dad&border_radius=12">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annakkarolyne&layout=compact&theme=dark_dimmed&bg_color=17001a&title_color=c9b3ff&text_color=e0d4ff&border_color=6a0dad&border_radius=12">
+**Front-end**
 
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-0f0f18?style=for-the-badge&logo=html5&logoColor=a78bfa&labelColor=1a1a2e)
+![CSS3](https://img.shields.io/badge/CSS3-0f0f18?style=for-the-badge&logo=css3&logoColor=a78bfa&labelColor=1a1a2e)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0f18?style=for-the-badge&logo=javascript&logoColor=a78bfa&labelColor=1a1a2e)
 
-<br>
+**Ferramentas**
 
-## 🧰 Linguagens & Tecnologias
+![Git](https://img.shields.io/badge/Git-0f0f18?style=for-the-badge&logo=git&logoColor=a78bfa&labelColor=1a1a2e)
+![GitHub](https://img.shields.io/badge/GitHub-0f0f18?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=1a1a2e)
+![Postman](https://img.shields.io/badge/Postman-0f0f18?style=for-the-badge&logo=postman&logoColor=a78bfa&labelColor=1a1a2e)
+![Insomnia](https://img.shields.io/badge/Insomnia-0f0f18?style=for-the-badge&logo=insomnia&logoColor=a78bfa&labelColor=1a1a2e)
+![JUnit5](https://img.shields.io/badge/JUnit5-0f0f18?style=for-the-badge&logo=junit5&logoColor=a78bfa&labelColor=1a1a2e)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-0f0f18?style=for-the-badge&logo=intellijidea&logoColor=a78bfa&labelColor=1a1a2e)
 
-<div align="center">
-
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" title="Python">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PowerBI.svg" title="Power BI">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" title="Java">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring.svg" title="Spring Boot">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" title="MySQL">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" title="HTML5">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" title="CSS3">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" title="JavaScript">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" title="Git">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitHub-Dark.svg" title="GitHub">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" title="Docker">
-
-</div>
-
-<br>
-
-## 📫 Contato
+---
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6a0dad?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:anacbugatto@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ana-caroline-bugatto-580336299/)
-[![GitHub](https://img.shields.io/badge/GitHub-6a0dad?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/annakkarolyne)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=annakkarolyne&show_icons=true&theme=tokyonight&bg_color=0f0f18&title_color=a78bfa&icon_color=7c3aed&text_color=c4b8e8&border_color=2d2d4e&border_radius=12&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annakkarolyne&layout=compact&theme=tokyonight&bg_color=0f0f18&title_color=a78bfa&text_color=c4b8e8&border_color=2d2d4e&border_radius=12&hide_border=false" />
 
 </div>
-
-<br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=annakkarolyne&style=flat-square&color=6a0dad" />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=annakkarolyne&theme=tokyonight&background=0f0f18&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b8e8&sideLabels=c4b8e8&dates=7c6a9e&border=2d2d4e&border_radius=12)
+
 </div>
 
-<br>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=6a0dad&section=footer"/>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f18?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=1a1a2e)](https://www.linkedin.com/in/ana-caroline-bugatto-580336299/)
+[![Gmail](https://img.shields.io/badge/Gmail-0f0f18?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=1a1a2e)](mailto:anacbugatto@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0f18?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=1a1a2e)](https://github.com/annakkarolyne)
+
+</div>
+
+---
+
+<div align="center">
+
+📍 Americana, SP · Brasil &nbsp;|&nbsp; 🟢 Disponível para oportunidades
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer" />
+</div>
