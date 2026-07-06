@@ -6,9 +6,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=140&section=header&text=Ana%20Caroline&fontSize=42&fontColor=f5f0ff&fontAlignY=52&desc=Dados%20%26%20Back-End%20Developer&descColor=c4b8e8&descSize=16&descAlignY=75" />
+# Ana Caroline
+
+### Dados & Back-End Developer
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -58,23 +62,6 @@ de uma loja de eletrônicos, e também desenvolvo APIs robustas com **Java** e *
 
 <br>
 
-## 📊 Estatísticas
-
-<br>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=annakkarolyne&show_icons=true&theme=tokyonight&bg_color=0f0f18&title_color=a78bfa&icon_color=7c3aed&text_color=c4b8e8&border_color=2d2d4e&border_radius=12&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annakkarolyne&layout=compact&theme=tokyonight&bg_color=0f0f18&title_color=a78bfa&text_color=c4b8e8&border_color=2d2d4e&border_radius=12&hide_border=false" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=annakkarolyne&theme=tokyonight&background=0f0f18&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b8e8&sideLabels=c4b8e8&dates=7c6a9e&border=2d2d4e&border_radius=12" />
-
-</div>
-
-<br>
-
 ## 📫 Contato
 
 <br>
@@ -93,8 +80,4 @@ de uma loja de eletrônicos, e também desenvolvo APIs robustas com **Java** e *
 
 📍 Americana, SP · Brasil &nbsp;|&nbsp; 🟢 Disponível para oportunidades
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer" />
 </div>
