@@ -34,17 +34,30 @@ Apaixonada por código limpo, boas práticas e por construir APIs robustas. Atua
 
 ---
 
+## 🚀 Projetos em Destaque
+
+<table>
+<tr>
+<td width="100%">
+
+### [smartfactory-dashboard](https://github.com/annakkarolyne/smartfactory-dashboard)
+
+Sistema de monitoramento industrial em tempo real com **React**, **Node.js** e **WebSocket** — simula o chão de fábrica de uma Indústria 4.0.
+
+🔗 [Ver deploy ao vivo](https://smartfactory-dashboard-liard.vercel.app)
+
+![React](https://img.shields.io/badge/React-0f0f18?style=flat-square&logo=react&logoColor=a78bfa&labelColor=1a1a2e)
+![Node.js](https://img.shields.io/badge/Node.js-0f0f18?style=flat-square&logo=nodedotjs&logoColor=a78bfa&labelColor=1a1a2e)
+![WebSocket](https://img.shields.io/badge/WebSocket-0f0f18?style=flat-square&logo=socketdotio&logoColor=a78bfa&labelColor=1a1a2e)
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=annakkarolyne&show_icons=true&theme=tokyonight&bg_color=0f0f18&title_color=a78bfa&icon_color=7c3aed&text_color=c4b8e8&border_color=2d2d4e&border_radius=12&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annakkarolyne&layout=compact&theme=tokyonight&bg_color=0f0f18&title_color=a78bfa&text_color=c4b8e8&border_color=2d2d4e&border_radius=12&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=annakkarolyne&theme=tokyonight&background=0f0f18&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b8e8&sideLabels=c4b8e8&dates=7c6a9e&border=2d2d4e&border_radius=12)
-
+<sub>💬 Tenho outros projetos no <a href="https://github.com/annakkarolyne?tab=repositories">meu perfil</a> — fixe os que quiser destacar aqui em cima</sub>
 </div>
 
 ---
