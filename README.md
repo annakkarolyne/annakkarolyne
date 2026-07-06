@@ -40,6 +40,26 @@ Apaixonada por código limpo, boas práticas e por construir APIs robustas. Atua
 <tr>
 <td width="100%">
 
+### [painel-de-vendas](https://github.com/annakkarolyne/painel-de-vendas)
+
+Pipeline ETL completo com **Python**, **PostgreSQL** e **Power BI**, simulando um ambiente real de análise de dados de uma loja de eletrônicos — geração de dados, limpeza, carga em banco com modelo estrela e dashboard interativo de 3 páginas.
+
+<img src="https://raw.githubusercontent.com/annakkarolyne/painel-de-vendas/main/ativos/dashboard-pagina1.png" width="100%" />
+
+**Destaques técnicos:** modelo estrela (fato + 4 dimensões) · testes automatizados com pytest · pipeline orquestrado · medidas DAX (incluindo cálculo MoM) · ambiente isolado com Docker
+
+![Python](https://img.shields.io/badge/Python-0f0f18?style=flat-square&logo=python&logoColor=a78bfa&labelColor=1a1a2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f18?style=flat-square&logo=postgresql&logoColor=a78bfa&labelColor=1a1a2e)
+![Power BI](https://img.shields.io/badge/Power_BI-0f0f18?style=flat-square&logo=powerbi&logoColor=a78bfa&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-0f0f18?style=flat-square&logo=docker&logoColor=a78bfa&labelColor=1a1a2e)
+![pandas](https://img.shields.io/badge/pandas-0f0f18?style=flat-square&logo=pandas&logoColor=a78bfa&labelColor=1a1a2e)
+![pytest](https://img.shields.io/badge/pytest-0f0f18?style=flat-square&logo=pytest&logoColor=a78bfa&labelColor=1a1a2e)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 ### [smartfactory-dashboard](https://github.com/annakkarolyne/smartfactory-dashboard)
 
 Sistema de monitoramento industrial em tempo real com **React**, **Node.js** e **WebSocket** — simula o chão de fábrica de uma Indústria 4.0.
